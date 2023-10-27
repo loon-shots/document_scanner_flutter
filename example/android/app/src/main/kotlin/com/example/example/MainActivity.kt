@@ -1,4 +1,4 @@
-package com.document.scanner.flutter.document_scanner_flutter_example
+package com.example.example
 
 import io.flutter.embedding.android.FlutterActivity
 
